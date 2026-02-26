@@ -2,9 +2,6 @@
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 network: defaults
 ---
 
